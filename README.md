@@ -1,3 +1,7 @@
+# Tutorials
+
+latest: https://golang.google.cn/doc/tutorial/
+
 # A Tour of Go
 
 latest: https://go.dev/tour/moretypes/16
